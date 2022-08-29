@@ -6,7 +6,7 @@ My configuration in Arch_Linux
 
 [see main raw code in config](https://github.com/Sonder9927/.dotfiles/tree/master/.config)
 
-or [my Github HomePage Overview](https://Sonder9927)
+or [my Github HomePage Overview](https://github.com/Sonder9927)
 
 or [my Git Page](https://Sonder9927.github.io.)
 
